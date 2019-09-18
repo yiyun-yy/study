@@ -1,6 +1,6 @@
 # ES6扩展
 
-方法 | 说明
+方法 | 说明描述
 ---|---
 Number.isFinite() | 判断一个值是不是有限的
 Number.isNan() | 判断一个值是不是NaN
