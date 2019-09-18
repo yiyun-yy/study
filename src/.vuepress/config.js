@@ -33,7 +33,7 @@ module.exports = {
     locales: {
       '/': {
         label: '简体中文',
-        repo: 'jasonandjay/study',
+        repo: 'yiyun-yy/study',
       
         selectText: '选择语言',
         editLinkText: '帮助我们改进内容',
