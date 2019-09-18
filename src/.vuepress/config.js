@@ -25,7 +25,7 @@ module.exports = {
   serviceWorker: true,
   theme: 'vue',
   themeConfig: {
-    repo: 'jasonandjay/study',
+    repo: 'yiyun-yy/study',
 
     docsDir: 'src',
     editLinks: true,
